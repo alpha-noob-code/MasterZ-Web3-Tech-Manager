@@ -10,6 +10,5 @@ A differenza di ERC20 e ERC721 qui nello stesso contratto ci sono sia token fung
 
 Al deploy si passa l'indirizzo dell'owner e la cartella dei metadati su Pinata (`ipfs://CID/`), i file sono in `metadata/`.
 
-Deploy con Remix + MetaMask su Polygon Amoy.
+Deploy e test su Remix (Remix VM).
 
-Contratto: `inserire indirizzo`
