@@ -1,0 +1,9 @@
+{
+  "name": "MasterZ NFT #0",
+  "description": "Primo NFT della collezione MasterZ - homework lezione 14",
+  "image": "ipfs://CID_IMMAGINE/0.png",
+  "attributes": [
+    { "trait_type": "Corso", "value": "WEB3 Tech Manager" },
+    { "trait_type": "Lezione", "value": 14 }
+  ]
+}
